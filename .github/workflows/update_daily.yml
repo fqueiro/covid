@@ -25,3 +25,7 @@ jobs:
       run: | 
         python .github/workflows/extract_dados_concelhos.py
       if: always()
+    - name: Plot graphs
+      run: | 
+        python .github/workflows/graphs.py
+      if: always()
