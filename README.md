@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![AML](https://fqueiro.github.io/covid/AML.png)
+[Link](url) and ![AML](https://github.com/fqueiro/covid/AML.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
