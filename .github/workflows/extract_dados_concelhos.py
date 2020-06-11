@@ -65,7 +65,7 @@ def patch_concelhos(concelhos):
     
     fix1 = concelhos.data=='16-05'
     concelhos.loc[fix1, 'SANTO TIRSO'] = 378
-    concelhos.loc[fix1, 'SÃO BRAS DE ALPORTEL'] = 3
+    concelhos.loc[fix1, 'SAO BRAS DE ALPORTEL'] = 3
 
     return concelhos    
 
